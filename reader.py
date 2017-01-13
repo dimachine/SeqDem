@@ -1,6 +1,6 @@
 import csv, itertools
 csvfile=open('for Sequence_mining (full).csv', 'r')
-# отркрытие файла с данными опросника для формирования последовательностей
+# open file with questionnaire for forming sequences
 sreader = csv.reader(csvfile, delimiter=';', quotechar='|')
 names=sreader.next()# stores attributes' names
 #cnt=0
