@@ -1,0 +1,2336 @@
+work separation -1 partner -1 marriage -1 children -1 -2
+work -1 separation -1 -2
+-2
+work -1 separation -1 marriage -1 children -1 -2
+separation -1 work -1 marriage -1 children -1 partner -1 -2
+work -1 marriage -1 children -1 separation -1 -2
+work -1 marriage children separation -1 -2
+work -1 separation -1 partner -1 children -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+children -1 work -1 partner marriage separation -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+-2
+-2
+work -1 -2
+-2
+work -1 marriage -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 marriage children separation -1 -2
+work marriage -1 children -1 separation -1 -2
+work -1 marriage -1 children -1 -2
+partner marriage separation -1 children -1 work -1 -2
+work -1 children -1 -2
+marriage -1 work children -1 -2
+-2
+partner marriage -1 children -1 -2
+partner work marriage children separation -1 -2
+work -1 -2
+work -1 partner marriage -1 children -1 -2
+work -1 partner marriage -1 children separation -1 -2
+work -1 marriage children -1 separation -1 -2
+work -1 separation -1 -2
+marriage separation -1 work children -1 -2
+marriage -1 work -1 partner -1 separation -1 -2
+separation -1 work marriage -1 children -1 -2
+work -1 marriage children separation -1 -2
+work separation -1 partner -1 children -1 marriage -1 -2
+work -1 marriage separation -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 marriage -1 separation -1 children -1 -2
+work separation -1 partner -1 -2
+work -1 marriage -1 children -1 separation -1 -2
+-2
+-2
+work separation -1 marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 marriage -1 -2
+-2
+work -1 separation -1 partner -1 children -1 -2
+work -1 partner separation -1 marriage children -1 -2
+separation -1 marriage children -1 work -1 -2
+work separation -1 marriage children -1 -2
+partner -1 marriage -1 children -1 work -1 -2
+work -1 partner -1 marriage -1 -2
+work -1 separation -1 marriage children -1 -2
+partner marriage separation -1 children -1 work -1 -2
+marriage -1 children -1 -2
+work -1 partner marriage -1 separation -1 -2
+work -1 marriage separation -1 children -1 -2
+marriage -1 children -1 -2
+partner marriage -1 children separation -1 work -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage -1 children -1 separation -1 -2
+work -1 marriage -1 children -1 -2
+work marriage children -1 -2
+work -1 marriage children separation -1 -2
+separation -1 partner marriage -1 children -1 -2
+work separation -1 partner -1 marriage -1 children -1 -2
+work -1 -2
+work -1 marriage children -1 -2
+work -1 children -1 separation -1 partner -1 marriage -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 marriage -1 children -1 separation -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 -2
+separation -1 work -1 -2
+work -1 marriage children -1 separation -1 -2
+work separation -1 -2
+marriage children separation -1 -2
+work -1 marriage -1 children -1 -2
+work -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage children -1 -2
+marriage -1 children -1 work separation -1 -2
+work -1 marriage -1 children -1 separation -1 -2
+work -1 marriage separation -1 children -1 -2
+-2
+separation -1 work -1 marriage -1 children -1 -2
+-2
+work -1 marriage -1 -2
+work -1 -2
+work -1 marriage -1 children -1 partner -1 -2
+marriage -1 children -1 work -1 -2
+separation -1 work -1 partner -1 -2
+work -1 partner separation -1 -2
+separation -1 work -1 marriage -1 -2
+separation -1 marriage -1 children -1 work -1 -2
+-2
+marriage separation -1 -2
+separation -1 work marriage -1 children -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+work -1 marriage -1 -2
+separation -1 work -1 marriage -1 -2
+separation -1 marriage -1 children -1 -2
+work -1 -2
+work -1 partner marriage -1 children -1 separation -1 -2
+work separation -1 marriage -1 -2
+separation -1 work marriage -1 children -1 -2
+work -1 partner -1 children -1 marriage -1 -2
+marriage -1 children -1 -2
+work separation -1 -2
+work marriage -1 -2
+work -1 marriage separation -1 -2
+partner marriage -1 work -1 separation -1 -2
+work -1 marriage separation -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 partner separation -1 marriage -1 children -1 -2
+work -1 children -1 marriage -1 -2
+work -1 marriage -1 children -1 -2
+work separation -1 children -1 -2
+work -1 marriage -1 children -1 -2
+work separation -1 partner -1 -2
+work separation -1 partner -1 -2
+marriage -1 children -1 -2
+separation -1 -2
+work separation -1 -2
+work -1 -2
+marriage -1 children -1 work -1 -2
+work -1 marriage -1 -2
+-2
+-2
+marriage -1 children -1 work separation -1 -2
+-2
+work separation -1 marriage -1 children -1 -2
+-2
+work separation -1 marriage -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+marriage separation -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work marriage -1 children -1 -2
+marriage children -1 work separation -1 -2
+work -1 marriage -1 children -1 -2
+work -1 -2
+work -1 marriage children -1 separation -1 -2
+work -1 marriage separation -1 children -1 -2
+-2
+-2
+separation -1 marriage -1 children -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+work separation -1 marriage -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 partner -1 marriage -1 children -1 separation -1 -2
+work separation -1 partner -1 marriage -1 -2
+separation -1 partner -1 -2
+partner work separation -1 marriage children -1 -2
+work separation -1 partner -1 marriage children -1 -2
+work separation -1 partner -1 marriage -1 -2
+work -1 marriage separation -1 children -1 -2
+separation -1 work -1 partner -1 -2
+work -1 partner separation -1 children -1 -2
+work -1 marriage separation -1 -2
+-2
+children -1 work -1 separation -1 partner -1 -2
+marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work separation -1 marriage -1 partner -1 children -1 -2
+children -1 work -1 separation -1 marriage -1 -2
+partner marriage -1 children -1 -2
+-2
+work -1 partner -1 marriage -1 children -1 separation -1 -2
+separation -1 partner -1 work -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 -2
+work separation -1 marriage -1 children -1 -2
+work marriage -1 children -1 -2
+marriage children -1 -2
+children -1 work -1 marriage separation -1 -2
+work -1 partner separation -1 marriage -1 children -1 -2
+work marriage -1 separation -1 children -1 -2
+work -1 partner marriage separation -1 children -1 -2
+separation -1 work -1 partner -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+partner separation -1 work -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+work -1 partner separation -1 marriage -1 children -1 -2
+work separation -1 marriage children -1 -2
+work -1 children -1 marriage -1 -2
+work -1 partner marriage -1 children -1 -2
+marriage -1 children -1 -2
+marriage -1 children -1 -2
+marriage -1 children -1 -2
+work -1 children -1 -2
+marriage -1 children -1 -2
+work -1 partner -1 marriage -1 children -1 -2
+work -1 partner separation -1 marriage -1 children -1 -2
+work -1 marriage -1 children separation -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 marriage separation -1 -2
+work -1 marriage separation -1 children -1 -2
+partner work -1 marriage children -1 -2
+partner work separation -1 children -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+partner marriage separation -1 work -1 children -1 -2
+separation -1 marriage -1 children -1 work -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 partner separation -1 children -1 -2
+work -1 -2
+partner work separation -1 marriage children -1 -2
+work separation -1 marriage -1 children -1 -2
+marriage separation -1 children -1 work -1 partner -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+separation -1 work -1 -2
+separation -1 work -1 partner -1 -2
+work separation -1 partner -1 marriage -1 -2
+work -1 marriage -1 children -1 separation -1 -2
+work -1 children -1 -2
+separation -1 partner work marriage -1 children -1 -2
+work -1 marriage children -1 -2
+work -1 -2
+marriage -1 children -1 -2
+marriage -1 children -1 -2
+separation -1 marriage -1 children -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+work -1 -2
+marriage -1 children -1 work separation -1 -2
+separation -1 marriage -1 children -1 -2
+work -1 partner -1 children -1 marriage -1 -2
+separation -1 partner work -1 -2
+work -1 -2
+partner marriage -1 work -1 children -1 separation -1 -2
+work separation -1 partner -1 children -1 marriage -1 -2
+partner marriage separation -1 children -1 work -1 -2
+work -1 partner separation -1 marriage children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+marriage separation -1 children -1 work -1 -2
+work separation -1 -2
+work separation -1 partner marriage children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+separation -1 marriage -1 children -1 -2
+work marriage separation -1 children -1 -2
+work -1 -2
+work -1 partner separation -1 children -1 -2
+work -1 partner marriage children separation -1 -2
+work -1 marriage -1 -2
+separation -1 partner marriage -1 children -1 work -1 -2
+work separation -1 marriage -1 partner children -1 -2
+separation -1 marriage -1 children -1 -2
+work -1 marriage children separation -1 -2
+children -1 work -1 marriage separation -1 -2
+work -1 separation -1 partner -1 -2
+separation -1 partner -1 marriage -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+separation -1 work -1 partner -1 marriage -1 children -1 -2
+work -1 -2
+partner work -1 children -1 -2
+separation -1 work -1 children -1 marriage -1 -2
+partner separation -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 marriage -1 children -1 separation -1 -2
+work -1 marriage -1 children -1 separation -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+separation -1 work -1 marriage children -1 -2
+work -1 separation -1 -2
+work -1 marriage separation -1 -2
+work -1 marriage separation -1 -2
+work marriage separation -1 children -1 -2
+work -1 partner marriage children separation -1 -2
+partner -1 marriage -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+work -1 -2
+work -1 marriage -1 children -1 -2
+work -1 partner -1 marriage -1 children -1 -2
+work -1 -2
+-2
+marriage -1 children -1 -2
+-2
+work -1 partner separation -1 marriage -1 children -1 -2
+work -1 marriage -1 children -1 -2
+-2
+marriage -1 children -1 -2
+separation -1 -2
+separation -1 marriage -1 children -1 partner -1 -2
+work -1 partner separation -1 -2
+work separation -1 -2
+separation -1 partner -1 -2
+separation -1 work -1 partner -1 -2
+partner -1 marriage -1 children -1 -2
+work -1 -2
+work -1 -2
+-2
+work marriage -1 children -1 -2
+-2
+partner marriage -1 children -1 -2
+work -1 partner -1 marriage -1 children -1 -2
+work -1 marriage -1 children -1 separation -1 -2
+separation -1 work marriage children -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+-2
+work separation -1 marriage -1 children -1 -2
+work separation -1 partner marriage children -1 -2
+work separation -1 -2
+separation -1 partner work marriage -1 -2
+work -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+-2
+work -1 marriage separation -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 -2
+work -1 marriage -1 children -1 separation -1 -2
+work -1 separation -1 marriage children -1 -2
+marriage -1 work children -1 separation -1 -2
+-2
+work -1 partner -1 -2
+work separation -1 marriage -1 children -1 -2
+marriage -1 work separation -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 -2
+work -1 -2
+work -1 marriage separation -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 separation -1 marriage -1 partner -1 children -1 -2
+separation -1 -2
+separation -1 -2
+work marriage separation -1 children -1 -2
+work separation -1 partner -1 marriage children -1 -2
+marriage -1 children -1 separation -1 -2
+separation -1 marriage children -1 -2
+work -1 marriage -1 children -1 separation -1 -2
+work -1 partner marriage -1 children -1 separation -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 -2
+separation -1 work -1 children -1 marriage -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+marriage children separation -1 work -1 -2
+separation -1 work -1 partner marriage -1 children -1 -2
+work -1 marriage -1 children -1 separation -1 -2
+marriage -1 children -1 work separation -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 separation -1 children -1 marriage -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 marriage -1 children -1 separation -1 -2
+work -1 -2
+work -1 separation -1 partner children -1 marriage -1 -2
+work separation -1 marriage -1 children -1 -2
+work separation -1 marriage children -1 -2
+work -1 separation -1 partner marriage children -1 -2
+work separation -1 marriage children -1 -2
+work -1 -2
+work -1 children -1 -2
+work -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage children -1 separation -1 -2
+work -1 marriage separation -1 children -1 -2
+children -1 separation -1 partner -1 marriage -1 -2
+marriage separation -1 children -1 -2
+work -1 partner separation -1 marriage -1 children -1 -2
+work -1 marriage -1 children -1 -2
+-2
+work -1 marriage separation -1 children -1 -2
+work -1 children -1 -2
+work -1 -2
+separation -1 work -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+-2
+work -1 marriage children -1 partner separation -1 -2
+work -1 marriage -1 children separation -1 -2
+work -1 marriage separation -1 children -1 -2
+work separation -1 partner marriage -1 children -1 -2
+work -1 -2
+separation -1 marriage children -1 -2
+work -1 partner marriage separation -1 children -1 -2
+separation -1 partner -1 -2
+marriage -1 children -1 -2
+-2
+separation -1 work -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+partner -1 marriage -1 children -1 -2
+-2
+separation -1 marriage -1 work -1 children -1 -2
+marriage children -1 -2
+marriage -1 children -1 -2
+separation -1 -2
+partner marriage -1 children -1 -2
+partner -1 marriage children -1 separation -1 -2
+partner -1 marriage -1 children -1 -2
+work -1 separation -1 -2
+-2
+marriage -1 children -1 -2
+work separation -1 -2
+partner -1 work -1 marriage separation -1 children -1 -2
+marriage separation -1 children -1 -2
+-2
+work -1 separation -1 -2
+work -1 -2
+work -1 marriage -1 children -1 -2
+work -1 separation -1 marriage children -1 -2
+work -1 marriage -1 children -1 -2
+work -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 -2
+work -1 -2
+work -1 children -1 separation -1 -2
+work -1 marriage separation -1 children -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+separation -1 partner work marriage -1 children -1 -2
+separation -1 work -1 partner marriage -1 -2
+work -1 children -1 marriage separation -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 partner separation -1 marriage -1 children -1 -2
+partner work marriage children separation -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+separation -1 partner -1 marriage children -1 work -1 -2
+children -1 work marriage -1 separation -1 -2
+-2
+work -1 marriage -1 children -1 -2
+work -1 partner separation -1 marriage -1 children -1 -2
+work -1 separation -1 partner -1 marriage -1 children -1 -2
+work -1 marriage children -1 -2
+separation -1 partner -1 work -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+work -1 separation -1 partner marriage -1 children -1 -2
+marriage children -1 separation -1 -2
+-2
+work -1 partner -1 marriage -1 children -1 -2
+partner separation -1 work marriage -1 children -1 -2
+work -1 marriage -1 children -1 -2
+work -1 -2
+marriage -1 children separation -1 -2
+work -1 marriage separation -1 children -1 -2
+separation -1 work -1 partner marriage -1 children -1 -2
+-2
+separation -1 marriage -1 children -1 -2
+work -1 partner separation -1 children -1 -2
+work -1 -2
+separation -1 work -1 marriage -1 -2
+work -1 partner -1 marriage children -1 -2
+partner work marriage children separation -1 -2
+work -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 partner -1 -2
+work -1 marriage -1 children -1 -2
+work separation -1 partner -1 marriage children -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+work -1 partner -1 marriage children -1 -2
+work -1 partner marriage -1 children -1 separation -1 -2
+separation -1 work -1 partner marriage -1 -2
+work -1 partner -1 separation -1 marriage children -1 -2
+separation -1 children -1 -2
+work -1 marriage -1 children -1 -2
+separation -1 work -1 marriage -1 partner children -1 -2
+-2
+work -1 partner -1 -2
+work -1 partner separation -1 marriage -1 children -1 -2
+marriage -1 children -1 -2
+-2
+work -1 marriage -1 separation -1 children -1 -2
+-2
+work -1 marriage -1 partner -1 -2
+work -1 partner -1 marriage -1 children -1 -2
+work separation -1 partner marriage -1 -2
+separation -1 work -1 children -1 -2
+work -1 separation -1 partner marriage -1 children -1 -2
+partner separation -1 marriage children -1 -2
+marriage -1 partner work -1 -2
+separation -1 partner work -1 marriage -1 -2
+work -1 partner separation -1 marriage children -1 -2
+partner marriage separation -1 work -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+marriage -1 separation -1 children -1 -2
+separation -1 work -1 partner marriage -1 children -1 -2
+work -1 -2
+work separation -1 marriage -1 children -1 -2
+work marriage separation -1 children -1 -2
+work -1 -2
+partner separation -1 work -1 marriage children -1 -2
+separation -1 work -1 -2
+separation -1 work -1 -2
+work -1 marriage -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+-2
+separation -1 work -1 marriage -1 children -1 -2
+work -1 separation -1 marriage children -1 -2
+work -1 marriage separation -1 children -1 -2
+marriage -1 children -1 work -1 separation -1 -2
+partner separation -1 marriage -1 children -1 -2
+separation -1 work -1 marriage children -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+work -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 marriage -1 separation -1 children -1 -2
+work -1 separation -1 -2
+work -1 separation -1 marriage -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+work -1 partner separation -1 marriage children -1 -2
+work -1 marriage -1 children separation -1 -2
+work separation -1 marriage -1 children -1 -2
+separation -1 work -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 partner -1 -2
+marriage separation -1 work -1 -2
+work -1 marriage -1 separation -1 children -1 -2
+partner work marriage children separation -1 -2
+-2
+separation -1 partner work -1 -2
+-2
+separation -1 work -1 partner -1 children -1 -2
+children -1 -2
+marriage children -1 separation -1 work -1 -2
+work -1 partner -1 children -1 separation -1 -2
+work -1 children -1 separation -1 partner marriage -1 -2
+separation -1 marriage -1 children -1 -2
+separation -1 partner marriage -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+partner work separation -1 marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work separation -1 marriage children -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+separation -1 partner work marriage -1 -2
+work separation -1 partner children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+marriage separation -1 children -1 -2
+marriage separation -1 children -1 work -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+work -1 separation -1 partner marriage -1 -2
+work separation -1 partner marriage -1 children -1 -2
+partner marriage children separation -1 work -1 -2
+separation -1 partner -1 -2
+separation -1 work children -1 partner -1 -2
+separation -1 marriage children -1 partner -1 -2
+marriage -1 work separation -1 children -1 -2
+separation -1 work marriage -1 children -1 -2
+partner marriage children separation -1 -2
+marriage -1 children -1 -2
+separation -1 marriage -1 children -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+marriage -1 children -1 -2
+work -1 marriage -1 separation -1 children -1 -2
+work -1 separation -1 -2
+children -1 separation -1 work -1 marriage -1 partner -1 -2
+separation -1 -2
+marriage separation -1 children -1 -2
+work -1 partner separation -1 -2
+work -1 -2
+separation -1 -2
+-2
+separation -1 -2
+work -1 marriage -1 children -1 separation -1 -2
+work separation -1 children -1 -2
+work -1 -2
+partner children separation -1 work marriage -1 -2
+work -1 children -1 partner separation -1 -2
+work -1 marriage separation -1 children -1 -2
+partner work separation -1 -2
+work -1 -2
+work -1 separation -1 partner -1 marriage -1 children -1 -2
+separation -1 work -1 marriage children -1 -2
+work separation -1 partner children -1 -2
+work marriage separation -1 children -1 -2
+work -1 marriage children separation -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 marriage -1 children -1 -2
+work -1 marriage -1 children -1 separation -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+separation -1 partner marriage children -1 work -1 -2
+work -1 marriage -1 children -1 -2
+work marriage separation -1 partner -1 children -1 -2
+work -1 separation -1 -2
+work -1 separation -1 marriage -1 -2
+-2
+work -1 marriage -1 children -1 -2
+-2
+-2
+-2
+-2
+partner work separation -1 children -1 marriage -1 -2
+marriage -1 children -1 -2
+work -1 marriage -1 children separation -1 partner -1 -2
+work -1 marriage -1 children -1 -2
+separation -1 marriage -1 children -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 -2
+marriage -1 children -1 -2
+marriage separation -1 children -1 -2
+children -1 -2
+separation -1 work marriage -1 children -1 -2
+work marriage -1 children -1 partner separation -1 -2
+work separation -1 partner marriage -1 children -1 -2
+separation -1 work -1 -2
+work separation -1 partner -1 -2
+work separation -1 partner -1 -2
+separation -1 work -1 partner -1 -2
+separation -1 marriage children -1 -2
+-2
+work separation -1 partner -1 -2
+work -1 marriage -1 children -1 -2
+work -1 marriage children separation -1 -2
+work -1 partner marriage separation -1 -2
+marriage separation -1 work -1 children -1 -2
+-2
+work separation -1 -2
+work separation -1 partner -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work marriage -1 children -1 separation -1 -2
+work -1 marriage separation -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 marriage -1 children -1 -2
+partner separation -1 marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+partner separation -1 work -1 marriage children -1 -2
+work -1 marriage separation -1 -2
+work separation -1 marriage -1 children -1 -2
+separation -1 marriage -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 -2
+marriage separation -1 children -1 work -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work separation -1 children -1 marriage -1 -2
+work -1 marriage -1 children separation -1 -2
+partner marriage separation -1 work -1 children -1 -2
+-2
+work -1 separation -1 -2
+work -1 -2
+work -1 separation -1 marriage -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 marriage children separation -1 -2
+work -1 separation -1 -2
+marriage separation -1 work -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+work marriage -1 separation -1 children -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+work -1 marriage separation -1 -2
+work -1 marriage children separation -1 -2
+work -1 -2
+work -1 separation -1 partner -1 -2
+work -1 marriage children separation -1 -2
+separation -1 marriage -1 work children -1 -2
+separation -1 work -1 partner -1 children -1 marriage -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 marriage -1 children -1 separation -1 -2
+work separation -1 marriage -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 separation -1 partner -1 marriage -1 children -1 -2
+separation -1 partner marriage -1 children -1 work -1 -2
+marriage children separation -1 work -1 -2
+separation -1 partner marriage -1 children -1 work -1 -2
+work -1 -2
+work -1 marriage children -1 separation -1 -2
+work -1 partner marriage children -1 separation -1 -2
+work -1 separation -1 partner marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 separation -1 marriage children -1 -2
+work -1 marriage children -1 -2
+work -1 separation -1 partner marriage -1 children -1 -2
+work -1 separation -1 partner -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work separation -1 partner marriage -1 children -1 -2
+marriage -1 work children -1 separation -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage -1 children -1 -2
+work -1 separation -1 children -1 marriage -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 separation -1 children -1 -2
+marriage separation -1 children -1 work -1 -2
+marriage -1 children -1 -2
+work -1 separation -1 partner marriage -1 children -1 -2
+partner separation -1 marriage -1 -2
+separation -1 work -1 partner -1 -2
+separation -1 partner work -1 -2
+children -1 -2
+separation -1 -2
+work -1 separation -1 partner marriage children -1 -2
+separation -1 -2
+marriage -1 partner children separation -1 work -1 -2
+work -1 marriage separation -1 children -1 -2
+marriage children -1 -2
+work separation -1 -2
+-2
+work -1 -2
+work -1 separation -1 partner -1 marriage -1 children -1 -2
+-2
+partner marriage -1 -2
+marriage separation -1 children -1 partner -1 -2
+separation -1 work -1 -2
+work -1 -2
+work -1 -2
+-2
+work -1 partner separation -1 marriage -1 children -1 -2
+-2
+-2
+work -1 separation -1 marriage children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage children separation -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 separation -1 marriage children -1 -2
+work marriage separation -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 separation -1 marriage children -1 partner -1 -2
+work -1 marriage separation -1 children -1 -2
+separation -1 work -1 children -1 partner -1 marriage -1 -2
+work -1 -2
+work -1 marriage children -1 -2
+work -1 separation -1 -2
+marriage separation -1 children -1 -2
+work -1 marriage children separation -1 -2
+work marriage -1 children -1 separation -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+work -1 partner marriage separation -1 children -1 -2
+marriage -1 children -1 -2
+work -1 partner marriage children separation -1 -2
+work separation -1 partner marriage children -1 -2
+work -1 separation -1 -2
+separation -1 marriage -1 children -1 -2
+work marriage separation -1 children -1 -2
+children -1 -2
+-2
+work -1 marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work marriage -1 children separation -1 -2
+work -1 marriage separation -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 partner marriage separation -1 children -1 -2
+work -1 marriage -1 children -1 -2
+marriage children separation -1 -2
+marriage -1 children -1 -2
+work separation -1 partner marriage -1 children -1 -2
+marriage separation -1 children -1 -2
+marriage separation -1 children -1 -2
+marriage -1 children -1 -2
+marriage -1 -2
+work -1 partner separation -1 marriage -1 -2
+work -1 marriage -1 children -1 -2
+-2
+work -1 marriage separation -1 children -1 -2
+marriage separation -1 children -1 -2
+work -1 separation -1 partner -1 -2
+partner separation -1 children -1 -2
+partner separation -1 work -1 -2
+work -1 partner marriage -1 -2
+work -1 marriage -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+separation -1 marriage -1 children -1 -2
+marriage -1 children -1 -2
+work separation -1 partner -1 -2
+work -1 marriage -1 children -1 -2
+work separation -1 partner marriage -1 children -1 -2
+separation -1 children -1 -2
+-2
+work -1 marriage children -1 -2
+work -1 partner separation -1 -2
+work marriage children -1 separation -1 -2
+work -1 separation -1 marriage children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 children -1 -2
+work -1 marriage children -1 -2
+work -1 marriage -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+-2
+separation -1 marriage children -1 work -1 -2
+work separation -1 -2
+work marriage separation -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 -2
+work -1 -2
+partner marriage -1 work -1 children -1 -2
+separation -1 marriage -1 children -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+-2
+children -1 -2
+work marriage -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+partner work separation -1 -2
+children -1 -2
+work marriage -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+marriage children -1 work separation -1 -2
+children -1 partner work marriage separation -1 -2
+partner -1 marriage -1 children -1 -2
+work marriage separation -1 children -1 -2
+marriage -1 children -1 -2
+marriage -1 children -1 -2
+marriage -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+children -1 work -1 marriage -1 separation -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage -1 separation -1 -2
+-2
+work separation -1 marriage -1 children -1 -2
+separation -1 work -1 marriage children -1 -2
+work -1 separation -1 marriage children -1 -2
+work separation -1 marriage -1 children -1 -2
+separation -1 marriage -1 partner work children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+partner work marriage children separation -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+work separation -1 marriage children -1 -2
+work -1 partner separation -1 marriage children -1 -2
+work -1 marriage -1 children -1 separation -1 -2
+work -1 partner -1 -2
+work -1 marriage separation -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 children -1 partner marriage separation -1 -2
+work -1 partner marriage -1 children -1 -2
+work -1 marriage -1 children -1 separation -1 -2
+work -1 marriage children separation -1 -2
+-2
+marriage separation -1 work -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+separation -1 work -1 partner marriage -1 children -1 -2
+work marriage separation -1 children -1 -2
+work -1 separation -1 partner marriage -1 children -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+partner work marriage children separation -1 -2
+work -1 marriage -1 children -1 -2
+-2
+marriage -1 children -1 -2
+work -1 marriage children -1 separation -1 -2
+work -1 marriage -1 children -1 -2
+-2
+children -1 -2
+-2
+-2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 marriage -1 children -1 separation -1 -2
+separation -1 work -1 marriage children -1 -2
+work separation -1 marriage -1 children -1 -2
+separation -1 marriage -1 work -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+marriage separation -1 children -1 -2
+-2
+work -1 marriage separation -1 children -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+marriage -1 children -1 work -1 separation -1 -2
+marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+partner marriage -1 children -1 separation -1 -2
+work separation -1 partner marriage -1 children -1 -2
+work -1 partner marriage -1 children -1 -2
+work -1 partner separation -1 -2
+work separation -1 -2
+separation -1 work marriage children -1 -2
+marriage separation -1 children -1 -2
+partner separation -1 children -1 -2
+work -1 separation -1 partner marriage children -1 -2
+separation -1 marriage -1 children -1 -2
+work -1 marriage -1 children -1 -2
+work -1 -2
+work children -1 marriage separation -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+work -1 separation -1 partner marriage -1 children -1 -2
+work -1 separation -1 partner -1 marriage -1 children -1 -2
+marriage -1 children -1 -2
+marriage separation -1 children -1 -2
+marriage -1 children -1 partner separation -1 -2
+separation -1 marriage -1 children -1 -2
+work marriage separation -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+separation -1 partner -1 marriage -1 children -1 -2
+work -1 separation -1 marriage children -1 -2
+work -1 marriage children separation -1 -2
+work separation -1 marriage children -1 -2
+partner -1 work separation -1 marriage children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work marriage separation -1 children -1 -2
+work separation -1 -2
+partner children separation -1 work -1 -2
+work separation -1 marriage children -1 -2
+work -1 separation -1 partner -1 children -1 marriage -1 -2
+work separation -1 partner -1 marriage children -1 -2
+-2
+work -1 partner marriage children separation -1 -2
+separation -1 work -1 marriage children -1 -2
+work marriage children separation -1 -2
+work separation -1 marriage -1 children -1 -2
+-2
+work separation -1 marriage -1 -2
+work separation -1 marriage children -1 -2
+work -1 marriage separation -1 children -1 -2
+partner separation -1 work marriage children -1 -2
+marriage separation -1 work -1 children -1 -2
+marriage -1 children -1 work -1 -2
+partner separation -1 work -1 marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 partner -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+separation -1 partner -1 work marriage -1 -2
+work -1 marriage separation -1 children -1 -2
+separation -1 marriage children -1 -2
+partner work marriage separation -1 children -1 -2
+work -1 partner children -1 separation -1 -2
+work -1 partner children separation -1 -2
+work separation -1 partner -1 children -1 -2
+work -1 -2
+work separation -1 marriage -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 marriage children separation -1 -2
+work marriage separation -1 children -1 -2
+work -1 separation -1 marriage -1 -2
+work -1 partner marriage separation -1 children -1 -2
+work -1 separation -1 partner -1 children -1 marriage -1 -2
+separation -1 marriage -1 children -1 -2
+work -1 separation -1 partner -1 marriage -1 children -1 -2
+work -1 -2
+work -1 -2
+-2
+separation -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+separation -1 work -1 -2
+work -1 separation -1 -2
+work separation -1 marriage -1 children -1 -2
+work marriage -1 children -1 separation -1 -2
+work -1 marriage children -1 partner separation -1 -2
+work marriage separation -1 children -1 -2
+work marriage separation -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 marriage children separation -1 -2
+work -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 -2
+work -1 -2
+marriage separation -1 work -1 -2
+separation -1 -2
+separation -1 marriage -1 children -1 -2
+work separation -1 partner marriage -1 children -1 -2
+work children -1 marriage -1 -2
+work -1 marriage -1 children -1 -2
+work marriage -1 children -1 -2
+-2
+work -1 separation -1 marriage -1 children -1 -2
+children -1 -2
+work marriage -1 children -1 -2
+work marriage separation -1 children -1 -2
+work -1 separation -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 children -1 separation -1 -2
+work -1 children -1 -2
+children -1 work marriage -1 -2
+work -1 -2
+separation -1 partner -1 marriage children -1 -2
+marriage -1 -2
+marriage -1 children -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+separation -1 work -1 -2
+marriage separation -1 children -1 -2
+work -1 marriage -1 children -1 separation -1 -2
+work -1 marriage -1 children -1 separation -1 -2
+-2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work separation -1 marriage children -1 -2
+work -1 marriage separation -1 children -1 -2
+marriage -1 children -1 -2
+marriage children -1 -2
+work -1 separation -1 -2
+work -1 -2
+work -1 marriage -1 children -1 -2
+work -1 children -1 separation -1 -2
+marriage -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+separation -1 partner work -1 children -1 marriage -1 -2
+marriage children separation -1 work -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+partner work -1 marriage children separation -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage -1 children -1 separation -1 -2
+separation -1 marriage -1 children -1 -2
+work -1 -2
+work -1 separation -1 -2
+partner separation -1 marriage -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 -2
+work -1 marriage separation -1 children -1 -2
+-2
+separation -1 work -1 partner marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 partner marriage separation -1 children -1 -2
+work marriage -1 children separation -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+marriage -1 children -1 work separation -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+work -1 partner marriage separation -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work children -1 partner -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 marriage -1 children -1 separation -1 -2
+work -1 marriage -1 children -1 separation -1 -2
+work separation -1 marriage -1 children -1 -2
+separation -1 work -1 children -1 -2
+work -1 partner marriage separation -1 children -1 -2
+marriage separation -1 work -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+separation -1 work -1 -2
+work -1 partner marriage -1 children -1 -2
+marriage separation -1 children -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+work -1 children -1 -2
+children -1 work -1 marriage -1 partner separation -1 -2
+work -1 marriage -1 children -1 partner separation -1 -2
+work -1 children -1 separation -1 -2
+partner marriage -1 work children -1 separation -1 -2
+work separation -1 partner -1 marriage -1 -2
+separation -1 work -1 children -1 -2
+work separation -1 partner marriage -1 -2
+work separation -1 children -1 -2
+work marriage separation -1 children -1 -2
+work -1 marriage children separation -1 -2
+work -1 marriage children -1 separation -1 -2
+separation -1 work -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 separation -1 -2
+marriage -1 -2
+separation -1 marriage -1 work children -1 -2
+work -1 marriage -1 -2
+work -1 partner marriage separation -1 children -1 -2
+work -1 partner -1 -2
+work separation -1 children -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+work -1 marriage -1 children -1 separation -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 -2
+work -1 partner separation -1 marriage -1 children -1 -2
+separation -1 work -1 marriage children -1 -2
+-2
+work -1 marriage -1 children separation -1 -2
+separation -1 -2
+marriage children separation -1 -2
+separation -1 work -1 marriage -1 -2
+work -1 -2
+work -1 -2
+marriage -1 work separation -1 children -1 -2
+-2
+-2
+work -1 -2
+-2
+separation -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage separation -1 -2
+work -1 separation -1 -2
+marriage children separation -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 marriage children -1 -2
+work -1 separation -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage -1 children -1 -2
+work marriage separation -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+marriage -1 work children -1 -2
+work -1 marriage separation -1 children -1 -2
+-2
+work -1 separation -1 partner marriage -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+separation -1 work -1 partner -1 marriage -1 children -1 -2
+work -1 partner -1 children -1 separation -1 -2
+marriage separation -1 children -1 work -1 -2
+separation -1 partner work marriage -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+separation -1 children -1 work -1 -2
+work separation -1 marriage -1 children -1 -2
+work marriage separation -1 children -1 -2
+separation -1 marriage -1 children -1 work -1 -2
+separation -1 work -1 partner marriage -1 children -1 -2
+work -1 partner marriage -1 children -1 -2
+work -1 -2
+partner marriage -1 children -1 -2
+children -1 -2
+partner work marriage children separation -1 -2
+work marriage children -1 -2
+work -1 -2
+separation -1 work -1 marriage children -1 -2
+separation -1 marriage -1 children -1 -2
+separation -1 work -1 marriage -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+separation -1 work -1 partner marriage -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+separation -1 work -1 marriage -1 -2
+separation -1 work -1 -2
+separation -1 work marriage -1 children -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+work -1 separation -1 marriage children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+work -1 partner marriage -1 separation -1 children -1 -2
+marriage children -1 -2
+separation -1 work -1 partner -1 marriage -1 children -1 -2
+work -1 -2
+work -1 separation -1 marriage children -1 -2
+work -1 marriage separation -1 children -1 -2
+work marriage children -1 -2
+work separation -1 partner -1 marriage -1 children -1 -2
+separation -1 work -1 partner -1 marriage -1 -2
+separation -1 work -1 -2
+separation -1 work marriage -1 partner children -1 -2
+work marriage separation -1 children -1 -2
+-2
+marriage -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 marriage -1 children -1 -2
+children -1 work -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 partner children -1 marriage -1 -2
+work -1 marriage separation -1 children -1 -2
+marriage separation -1 children -1 -2
+separation -1 partner work marriage -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 children -1 marriage -1 -2
+separation -1 work marriage -1 children -1 -2
+-2
+marriage separation -1 children -1 -2
+marriage -1 children -1 -2
+separation -1 work marriage -1 children -1 partner -1 -2
+separation -1 work -1 marriage children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+separation -1 children -1 -2
+separation -1 work -1 marriage -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 partner marriage -1 children -1 -2
+work -1 -2
+work -1 marriage -1 children -1 separation -1 -2
+work -1 separation -1 marriage -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 -2
+work -1 separation -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage -1 children -1 -2
+work -1 marriage -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+separation -1 marriage -1 children -1 work -1 -2
+work -1 children -1 marriage -1 -2
+work marriage -1 separation -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+separation -1 marriage -1 work -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage -1 children -1 -2
+work -1 partner -1 -2
+work -1 marriage -1 children -1 -2
+work marriage separation -1 children -1 -2
+marriage separation -1 children -1 -2
+marriage separation -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage -1 separation -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage -1 children -1 separation -1 -2
+work -1 partner separation -1 marriage children -1 -2
+work -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 -2
+work -1 marriage children separation -1 -2
+work marriage separation -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 partner -1 marriage children -1 -2
+marriage -1 separation -1 work children -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 partner -1 separation -1 -2
+work -1 marriage children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage -1 children -1 -2
+work -1 partner marriage children -1 -2
+separation -1 children -1 marriage -1 work -1 -2
+marriage -1 children -1 -2
+work -1 marriage children -1 -2
+work -1 marriage -1 children -1 -2
+work marriage separation -1 children -1 -2
+marriage -1 children -1 -2
+work -1 separation -1 marriage children -1 -2
+work -1 marriage separation -1 children -1 -2
+marriage children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work children -1 partner separation -1 marriage -1 -2
+work -1 -2
+work -1 separation -1 partner -1 children -1 marriage -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+separation -1 marriage -1 children -1 work -1 -2
+work -1 partner separation -1 children -1 -2
+separation -1 work -1 partner -1 -2
+separation -1 work -1 -2
+work -1 marriage children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 children -1 separation -1 partner -1 -2
+work -1 -2
+work -1 partner marriage separation -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 separation -1 -2
+work separation -1 -2
+work -1 partner marriage -1 children -1 -2
+work -1 marriage -1 -2
+-2
+work -1 marriage separation -1 children -1 -2
+work -1 -2
+work -1 separation -1 -2
+marriage children -1 -2
+work -1 partner -1 marriage -1 children -1 -2
+marriage -1 children -1 -2
+-2
+work -1 partner marriage -1 children separation -1 -2
+separation -1 marriage -1 children -1 -2
+partner marriage -1 work -1 children separation -1 -2
+marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+work -1 -2
+work separation -1 partner marriage -1 children -1 -2
+-2
+work -1 marriage -1 children -1 -2
+work marriage separation -1 children -1 -2
+separation -1 work -1 -2
+marriage separation -1 children -1 -2
+separation -1 work marriage -1 -2
+work -1 marriage -1 children -1 -2
+work -1 marriage -1 children -1 separation -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+separation -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 marriage -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+separation -1 work -1 partner -1 marriage -1 children -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+partner marriage -1 children -1 work separation -1 -2
+work -1 children -1 marriage -1 separation -1 -2
+work -1 partner marriage -1 children -1 separation -1 -2
+children -1 -2
+work separation -1 marriage -1 children -1 -2
+marriage separation -1 children -1 -2
+-2
+separation -1 work marriage -1 children -1 -2
+work marriage -1 children -1 -2
+marriage -1 children -1 separation -1 -2
+partner work separation -1 marriage -1 -2
+work -1 marriage separation -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work separation -1 partner -1 marriage -1 children -1 -2
+partner marriage children -1 work -1 separation -1 -2
+-2
+separation -1 marriage -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 separation -1 children -1 marriage -1 -2
+work marriage separation -1 children -1 -2
+children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 partner marriage -1 children -1 -2
+separation -1 work -1 marriage -1 children -1 partner -1 -2
+partner children -1 work -1 separation -1 marriage -1 -2
+work -1 separation -1 partner children -1 -2
+work -1 marriage separation -1 children -1 -2
+separation -1 -2
+-2
+separation -1 -2
+separation -1 -2
+separation -1 partner -1 -2
+marriage children -1 -2
+work -1 marriage separation -1 children -1 -2
+marriage separation -1 children -1 -2
+partner marriage separation -1 children -1 -2
+marriage separation -1 children -1 -2
+partner separation -1 marriage children -1 -2
+marriage separation -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 marriage -1 children -1 -2
+work -1 partner marriage -1 children -1 -2
+work -1 marriage -1 children separation -1 -2
+separation -1 marriage -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+marriage -1 children -1 separation -1 -2
+marriage -1 children -1 separation -1 -2
+marriage separation -1 children -1 -2
+work -1 separation -1 -2
+separation -1 partner -1 marriage children -1 -2
+work -1 marriage children separation -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage -1 children -1 separation -1 -2
+work -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 -2
+work -1 partner marriage -1 separation -1 children -1 -2
+work separation -1 partner -1 marriage -1 children -1 -2
+work -1 marriage -1 children -1 separation -1 -2
+work -1 marriage -1 children -1 -2
+partner -1 marriage children -1 -2
+work -1 partner separation -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 marriage children -1 separation -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+separation -1 work -1 -2
+work -1 separation -1 marriage -1 -2
+work -1 marriage -1 children -1 separation -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+separation -1 -2
+separation -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+marriage children separation -1 work -1 -2
+marriage children separation -1 work -1 -2
+separation -1 marriage -1 children -1 work -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+separation -1 work -1 marriage children -1 -2
+marriage children -1 work -1 -2
+separation -1 work -1 partner -1 marriage -1 -2
+work -1 partner marriage separation -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 partner separation -1 children -1 marriage -1 -2
+work -1 marriage separation -1 children -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+separation -1 partner -1 marriage children -1 -2
+partner -1 marriage separation -1 -2
+marriage separation -1 work children -1 -2
+marriage separation -1 children -1 work -1 -2
+separation -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+separation -1 marriage -1 work -1 children -1 -2
+separation -1 -2
+-2
+separation -1 work -1 partner -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+work -1 partner -1 marriage -1 -2
+work -1 marriage -1 children -1 -2
+-2
+work separation -1 marriage -1 children -1 -2
+-2
+marriage children separation -1 work -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work separation -1 partner -1 children -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 children separation -1 marriage -1 partner -1 -2
+work -1 -2
+separation -1 partner work marriage -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 marriage -1 children -1 -2
+children -1 -2
+separation -1 work -1 -2
+work marriage separation -1 children -1 -2
+work marriage -1 children -1 -2
+work -1 separation -1 -2
+marriage -1 children -1 work -1 -2
+-2
+marriage -1 children -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+-2
+work -1 -2
+partner work separation -1 marriage -1 children -1 -2
+work -1 -2
+marriage -1 children -1 separation -1 -2
+work -1 -2
+work -1 partner -1 marriage -1 children separation -1 -2
+partner separation -1 marriage children -1 -2
+-2
+separation -1 marriage -1 children -1 -2
+work separation -1 partner -1 -2
+marriage -1 -2
+work separation -1 marriage -1 children -1 -2
+separation -1 marriage -1 children -1 work -1 -2
+work separation -1 partner -1 marriage children -1 -2
+work -1 partner marriage -1 children -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+separation -1 work -1 -2
+work -1 separation -1 -2
+marriage -1 children -1 -2
+separation -1 work -1 -2
+work -1 marriage -1 children -1 -2
+marriage -1 children -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+marriage -1 work -1 children -1 -2
+-2
+separation -1 marriage -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+partner marriage children -1 -2
+separation -1 work -1 partner marriage -1 children -1 -2
+-2
+work separation -1 marriage -1 children -1 -2
+work -1 marriage -1 children -1 -2
+marriage -1 work -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+marriage separation -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+work -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+marriage separation -1 work children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 -2
+separation -1 partner -1 work children -1 -2
+marriage -1 children -1 -2
+marriage separation -1 children -1 -2
+work -1 marriage -1 -2
+separation -1 work children -1 marriage -1 -2
+marriage separation -1 children -1 -2
+children -1 work -1 partner marriage separation -1 -2
+work separation -1 marriage -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+work separation -1 marriage children -1 -2
+separation -1 marriage -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+separation -1 marriage -1 children -1 -2
+marriage -1 children -1 separation -1 work -1 -2
+partner marriage -1 children -1 work -1 -2
+separation -1 marriage -1 work -1 children -1 -2
+marriage children separation -1 -2
+marriage -1 children -1 -2
+work -1 -2
+work -1 partner separation -1 -2
+separation -1 work -1 -2
+-2
+marriage separation -1 children -1 partner -1 -2
+work -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 -2
+work -1 marriage separation -1 children -1 -2
+work marriage separation -1 children -1 -2
+separation -1 work -1 partner marriage -1 children -1 -2
+marriage children separation -1 -2
+-2
+work -1 marriage children separation -1 -2
+work -1 marriage -1 children -1 -2
+work marriage separation -1 children -1 -2
+partner -1 marriage children separation -1 -2
+partner work separation -1 marriage -1 -2
+work -1 marriage children -1 separation -1 -2
+work -1 partner separation -1 marriage -1 children -1 -2
+work -1 marriage -1 children -1 separation -1 -2
+separation -1 partner -1 children -1 marriage -1 -2
+work -1 marriage -1 children -1 separation -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+separation -1 -2
+work -1 marriage -1 children -1 separation -1 -2
+work -1 partner marriage children separation -1 -2
+work -1 separation -1 marriage -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage separation -1 -2
+work -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 separation -1 partner marriage -1 children -1 -2
+work -1 marriage -1 -2
+children -1 work -1 -2
+partner marriage children -1 -2
+marriage -1 children -1 -2
+marriage separation -1 work children -1 -2
+separation -1 children -1 -2
+work -1 partner -1 -2
+work -1 children -1 marriage separation -1 -2
+marriage children -1 -2
+work -1 marriage children -1 -2
+marriage separation -1 children -1 work -1 -2
+marriage -1 children -1 -2
+children -1 marriage -1 -2
+work -1 -2
+marriage -1 -2
+work separation -1 marriage children -1 -2
+work -1 -2
+marriage -1 children -1 separation -1 -2
+marriage separation -1 work -1 -2
+-2
+separation -1 marriage children -1 -2
+marriage -1 children -1 -2
+separation -1 marriage children -1 -2
+work -1 marriage -1 -2
+work -1 -2
+work -1 -2
+-2
+work -1 -2
+separation -1 work -1 -2
+work -1 separation -1 -2
+marriage children -1 -2
+partner work separation -1 marriage children -1 -2
+marriage -1 children -1 -2
+children -1 marriage -1 -2
+work separation -1 marriage -1 children -1 -2
+work marriage children separation -1 -2
+work -1 marriage -1 children separation -1 -2
+work -1 marriage -1 partner -1 children -1 -2
+work marriage -1 children -1 -2
+separation -1 marriage -1 children -1 -2
+marriage children -1 separation -1 -2
+work -1 marriage -1 children -1 -2
+partner -1 marriage -1 separation -1 children -1 -2
+separation -1 marriage -1 children -1 -2
+children -1 marriage separation -1 -2
+work marriage separation -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 -2
+work separation -1 marriage -1 children -1 -2
+work marriage -1 children -1 -2
+marriage -1 children -1 -2
+work -1 partner -1 -2
+work -1 separation -1 partner -1 -2
+work separation -1 marriage -1 children -1 -2
+marriage separation -1 children -1 -2
+work -1 separation -1 -2
+partner separation -1 work marriage -1 children -1 -2
+work -1 marriage children separation -1 -2
+marriage separation -1 children -1 work -1 -2
+work -1 separation -1 marriage children -1 -2
+work -1 partner separation -1 marriage children -1 -2
+work -1 separation -1 partner -1 marriage children -1 -2
+work -1 marriage -1 children -1 -2
+children -1 partner work -1 marriage -1 -2
+separation -1 partner marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 partner -1 marriage children separation -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 marriage -1 children -1 separation -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 children -1 partner marriage -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage -1 children -1 partner separation -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+separation -1 partner marriage -1 children -1 -2
+partner marriage children -1 -2
+marriage separation -1 children -1 -2
+work -1 partner marriage -1 children -1 separation -1 -2
+work -1 separation -1 marriage children -1 -2
+separation -1 partner marriage -1 -2
+work -1 separation -1 children -1 partner marriage -1 -2
+work -1 partner separation -1 marriage children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage -1 children -1 separation -1 -2
+work marriage children separation -1 -2
+work -1 separation -1 partner marriage -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 partner separation -1 marriage -1 children -1 -2
+work separation -1 marriage children -1 -2
+partner work -1 separation -1 marriage children -1 -2
+work -1 marriage -1 children -1 separation -1 -2
+separation -1 work -1 -2
+separation -1 work -1 marriage -1 -2
+work -1 children -1 marriage separation -1 -2
+separation -1 work -1 partner marriage -1 children -1 -2
+work separation -1 -2
+-2
+marriage separation -1 children -1 -2
+separation -1 work marriage children -1 -2
+work -1 separation -1 marriage children -1 -2
+work -1 partner marriage separation -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+separation -1 work -1 partner -1 marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work separation -1 partner marriage -1 children -1 -2
+work -1 -2
+separation -1 work -1 partner marriage -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 partner separation -1 marriage children -1 -2
+-2
+work -1 partner marriage -1 children -1 -2
+marriage separation -1 children -1 -2
+marriage children -1 partner separation -1 -2
+work -1 partner marriage children separation -1 -2
+separation -1 marriage -1 children -1 -2
+partner separation -1 work -1 -2
+work -1 partner separation -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 -2
+-2
+marriage separation -1 children -1 -2
+work -1 -2
+work separation -1 marriage -1 partner -1 children -1 -2
+separation -1 marriage -1 children -1 -2
+separation -1 work -1 -2
+work marriage separation -1 children -1 -2
+partner work marriage separation -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+separation -1 marriage -1 children -1 -2
+work -1 separation -1 partner -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 -2
+work -1 marriage -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work marriage children -1 separation -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 separation -1 marriage children -1 -2
+work -1 partner separation -1 marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+separation -1 work marriage -1 partner children -1 -2
+marriage separation -1 children -1 -2
+separation -1 work -1 children -1 -2
+separation -1 partner marriage -1 children -1 -2
+marriage -1 children -1 -2
+marriage separation -1 children -1 -2
+separation -1 children -1 -2
+separation -1 marriage -1 children -1 -2
+work -1 separation -1 -2
+separation -1 marriage -1 children -1 -2
+work separation -1 -2
+work -1 separation -1 marriage children -1 -2
+separation -1 work -1 marriage children -1 -2
+marriage separation -1 children -1 -2
+separation -1 marriage -1 children -1 -2
+children separation -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 children -1 -2
+work -1 marriage -1 separation -1 children -1 -2
+work -1 separation -1 children -1 partner marriage -1 -2
+work -1 -2
+marriage -1 children -1 separation -1 -2
+work separation -1 marriage -1 children -1 -2
+children -1 partner marriage -1 work separation -1 -2
+marriage separation -1 children -1 work -1 -2
+-2
+children separation -1 partner -1 work -1 -2
+work -1 marriage children separation -1 -2
+work -1 marriage -1 children -1 separation -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 partner -1 -2
+separation -1 work marriage -1 children -1 -2
+work separation -1 partner marriage -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 marriage -1 children -1 -2
+work -1 children -1 marriage separation -1 partner -1 -2
+work -1 marriage -1 partner children separation -1 -2
+work -1 partner marriage separation -1 children -1 -2
+work -1 marriage separation -1 children -1 partner -1 -2
+work -1 marriage -1 children separation -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 marriage children separation -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+separation -1 work -1 -2
+marriage -1 children -1 -2
+separation -1 marriage -1 children -1 -2
+separation -1 marriage -1 children -1 -2
+separation -1 marriage -1 children -1 -2
+marriage separation -1 children -1 -2
+separation -1 -2
+separation -1 marriage -1 children -1 -2
+separation -1 marriage -1 children -1 -2
+separation -1 marriage -1 -2
+separation -1 partner marriage children -1 -2
+children -1 -2
+separation -1 children -1 -2
+marriage -1 children -1 -2
+children -1 work -1 -2
+marriage -1 -2
+marriage separation -1 children -1 -2
+marriage -1 children -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+work marriage separation -1 children -1 -2
+separation -1 work -1 marriage children -1 -2
+separation -1 work -1 marriage children -1 -2
+separation -1 work -1 partner marriage -1 children -1 -2
+work -1 -2
+marriage children -1 separation -1 -2
+marriage separation -1 children -1 -2
+work -1 -2
+marriage separation -1 children -1 -2
+work marriage -1 children -1 -2
+marriage -1 children -1 separation -1 -2
+separation -1 work marriage -1 children -1 -2
+separation -1 marriage -1 children -1 -2
+marriage -1 children -1 -2
+separation -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 marriage children -1 -2
+work -1 marriage -1 children separation -1 -2
+work -1 marriage -1 children -1 -2
+work separation -1 partner marriage -1 children -1 -2
+separation -1 work marriage -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+separation -1 work -1 partner marriage -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+separation -1 marriage -1 work -1 children -1 -2
+separation -1 work -1 partner -1 marriage children -1 -2
+separation -1 partner -1 -2
+marriage -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 partner -1 -2
+work -1 marriage -1 -2
+partner marriage separation -1 children -1 work -1 -2
+work -1 marriage separation -1 -2
+separation -1 marriage -1 children -1 work -1 -2
+partner separation -1 work -1 children -1 -2
+work -1 marriage -1 children -1 -2
+work -1 marriage separation -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+separation -1 work -1 marriage children -1 -2
+work separation -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+work -1 separation -1 children -1 -2
+work -1 marriage -1 children -1 -2
+partner -1 work separation -1 -2
+children -1 -2
+partner marriage separation -1 children -1 -2
+work -1 partner -1 -2
+children -1 work separation -1 -2
+work -1 partner -1 marriage -1 children -1 -2
+separation -1 partner work -1 marriage children -1 -2
+work -1 marriage -1 children -1 separation -1 -2
+partner marriage -1 children -1 -2
+work separation -1 marriage children -1 -2
+work -1 -2
+partner separation -1 children -1 marriage -1 -2
+partner work marriage children -1 separation -1 -2
+work -1 partner separation -1 marriage children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage -1 children -1 -2
+work -1 separation -1 partner marriage -1 children -1 -2
+partner marriage separation -1 work children -1 -2
+work -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 children -1 marriage separation -1 -2
+work -1 partner separation -1 marriage -1 -2
+work -1 partner -1 children -1 -2
+separation -1 marriage -1 work -1 -2
+work -1 separation -1 children -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+work -1 separation -1 marriage children -1 -2
+work separation -1 marriage -1 partner -1 -2
+work -1 marriage separation -1 children -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+work -1 marriage -1 children -1 separation -1 -2
+work -1 -2
+separation -1 marriage -1 children -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+separation -1 work -1 partner -1 marriage -1 -2
+work separation -1 marriage children -1 -2
+work -1 partner separation -1 -2
+work -1 marriage -1 children -1 -2
+work -1 partner marriage separation -1 children -1 -2
+work -1 marriage -1 partner separation -1 children -1 -2
+children -1 work -1 marriage separation -1 -2
+marriage children -1 separation -1 -2
+-2
+work -1 marriage -1 children -1 partner separation -1 -2
+marriage -1 children -1 -2
+marriage -1 children -1 work -1 -2
+marriage separation -1 children -1 work -1 -2
+work -1 children -1 marriage -1 -2
+work -1 marriage -1 separation -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+marriage separation -1 children -1 work -1 -2
+work -1 -2
+-2
+marriage -1 -2
+separation -1 work -1 marriage children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 partner marriage children separation -1 -2
+work -1 separation -1 marriage children -1 -2
+separation -1 work marriage children -1 -2
+work marriage separation -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 separation -1 partner marriage -1 children -1 -2
+separation -1 work marriage -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+-2
+work -1 partner marriage -1 children -1 separation -1 -2
+work marriage -1 separation -1 children -1 -2
+work -1 marriage children separation -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+partner children -1 work marriage -1 separation -1 -2
+work -1 marriage separation -1 children -1 -2
+marriage separation -1 children -1 work -1 -2
+work -1 separation -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+children -1 work separation -1 marriage -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 marriage children separation -1 -2
+separation -1 marriage -1 children -1 -2
+marriage -1 children -1 -2
+work separation -1 -2
+marriage -1 children -1 -2
+-2
+marriage separation -1 -2
+-2
+-2
+marriage -1 children -1 -2
+separation -1 -2
+-2
+work separation -1 marriage -1 children -1 -2
+marriage children separation -1 -2
+marriage separation -1 children -1 work -1 -2
+marriage -1 work separation -1 children -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+marriage -1 children -1 separation -1 -2
+-2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+marriage separation -1 children -1 work -1 -2
+marriage children -1 work separation -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+separation -1 work marriage -1 children -1 -2
+work marriage children separation -1 -2
+work -1 children -1 marriage -1 separation -1 -2
+work separation -1 partner marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+separation -1 work marriage -1 children -1 -2
+separation -1 work -1 partner marriage -1 children -1 -2
+work -1 children -1 marriage -1 separation -1 -2
+marriage -1 children -1 separation -1 -2
+work -1 separation -1 children -1 marriage -1 -2
+marriage separation -1 work children -1 -2
+marriage -1 children -1 partner -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+-2
+separation -1 work -1 marriage -1 children -1 -2
+work -1 separation -1 partner marriage -1 -2
+work -1 partner separation -1 marriage children -1 -2
+work -1 partner marriage children separation -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+partner -1 children -1 work -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+-2
+partner work marriage separation -1 children -1 -2
+separation -1 partner -1 marriage -1 work children -1 -2
+partner -1 work separation -1 marriage -1 children -1 -2
+partner marriage separation -1 work -1 children -1 -2
+work -1 -2
+separation -1 work -1 partner marriage -1 children -1 -2
+-2
+work -1 marriage separation -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+partner work -1 marriage -1 separation -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+separation -1 marriage -1 work children -1 partner -1 -2
+work separation -1 marriage -1 children -1 -2
+work separation -1 marriage children -1 -2
+separation -1 -2
+-2
+work -1 separation -1 -2
+separation -1 -2
+separation -1 partner -1 -2
+separation -1 -2
+separation -1 marriage -1 children -1 work -1 -2
+work separation -1 -2
+work -1 partner separation -1 marriage -1 -2
+marriage children -1 separation -1 partner -1 work -1 -2
+separation -1 work -1 partner -1 -2
+work marriage separation -1 children -1 -2
+separation -1 work -1 marriage children -1 -2
+work -1 separation -1 -2
+work -1 separation -1 partner marriage children -1 -2
+work marriage children -1 separation -1 -2
+work -1 marriage children -1 separation -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+separation -1 -2
+work -1 marriage children -1 separation -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+partner marriage -1 children -1 work -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+work -1 marriage -1 children -1 -2
+work -1 marriage separation -1 -2
+work -1 marriage -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+work separation -1 partner -1 marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+separation -1 work -1 -2
+work -1 partner marriage separation -1 children -1 -2
+work -1 partner -1 marriage children -1 -2
+work separation -1 partner -1 marriage children -1 -2
+separation -1 partner work marriage -1 children -1 -2
+work -1 children -1 -2
+work -1 -2
+work -1 partner marriage separation -1 children -1 -2
+work -1 partner marriage separation -1 children -1 -2
+work marriage separation -1 children -1 -2
+separation -1 partner marriage -1 work -1 children -1 -2
+separation -1 work -1 partner -1 marriage -1 children -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+work -1 separation -1 -2
+work -1 separation -1 partner marriage children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+separation -1 work -1 partner marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 separation -1 partner marriage -1 children -1 -2
+partner marriage children -1 work -1 separation -1 -2
+partner marriage -1 -2
+-2
+work separation -1 partner marriage -1 children -1 -2
+-2
+work -1 partner marriage separation -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+-2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage -1 separation -1 children -1 partner -1 -2
+work -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+separation -1 partner work -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+marriage children separation -1 work -1 -2
+marriage -1 children -1 work separation -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+separation -1 work -1 partner children -1 marriage -1 -2
+partner work separation -1 marriage children -1 -2
+work -1 partner marriage separation -1 children -1 -2
+work separation -1 partner marriage children -1 -2
+separation -1 partner work marriage children -1 -2
+work separation -1 partner marriage -1 children -1 -2
+work marriage separation -1 children -1 -2
+work -1 partner separation -1 marriage children -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 marriage -1 children -1 separation -1 -2
+work -1 children -1 partner marriage -1 separation -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+marriage separation -1 children -1 work -1 -2
+partner work children separation -1 marriage -1 -2
+work -1 marriage -1 children separation -1 -2
+work -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 separation -1 children -1 partner -1 -2
+work separation -1 partner -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 partner separation -1 marriage children -1 -2
+work -1 separation -1 partner -1 children -1 -2
+separation -1 work -1 children -1 partner marriage -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 separation -1 partner -1 marriage -1 children -1 -2
+marriage -1 work children separation -1 -2
+work -1 separation -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 -2
+work -1 children -1 -2
+marriage -1 children -1 separation -1 work -1 -2
+marriage -1 children -1 work -1 -2
+separation -1 marriage -1 children -1 work -1 -2
+separation -1 work marriage -1 children -1 -2
+work -1 marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+separation -1 -2
+marriage separation -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+marriage -1 children -1 separation -1 -2
+-2
+partner work separation -1 marriage -1 children -1 -2
+work -1 separation -1 -2
+separation -1 work -1 -2
+separation -1 partner marriage -1 work children -1 -2
+separation -1 work marriage -1 children -1 -2
+work -1 separation -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+work separation -1 marriage -1 children -1 partner -1 -2
+separation -1 work -1 children -1 partner -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+separation -1 work -1 -2
+work -1 separation -1 -2
+-2
+separation -1 work -1 marriage -1 children -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+separation -1 work -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+work marriage separation -1 children -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+work -1 partner marriage -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 -2
+marriage -1 children -1 -2
+work -1 partner separation -1 children -1 -2
+partner separation -1 marriage -1 children -1 -2
+work marriage children separation -1 -2
+work -1 marriage -1 children -1 separation -1 -2
+marriage separation -1 children -1 -2
+separation -1 work marriage -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+work separation -1 marriage children -1 -2
+partner work separation -1 marriage -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+-2
+separation -1 work -1 marriage -1 children -1 -2
+work -1 marriage children separation -1 -2
+marriage separation -1 work -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+-2
+separation -1 work -1 -2
+separation -1 marriage -1 children -1 work -1 -2
+work -1 separation -1 -2
+children -1 marriage -1 -2
+work -1 separation -1 partner -1 marriage -1 children -1 -2
+children -1 -2
+marriage -1 children -1 -2
+work separation -1 children -1 -2
+separation -1 work -1 -2
+work -1 separation -1 marriage children -1 -2
+work -1 marriage separation -1 children -1 -2
+marriage -1 children -1 -2
+separation -1 marriage -1 work children -1 -2
+partner work separation -1 -2
+partner marriage children -1 -2
+work -1 -2
+marriage separation -1 work -1 children -1 -2
+-2
+work -1 partner separation -1 marriage children -1 -2
+separation -1 work -1 marriage -1 -2
+partner separation -1 marriage -1 children -1 -2
+marriage children separation -1 work -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+marriage -1 children -1 -2
+work -1 separation -1 children -1 marriage -1 -2
+work -1 marriage separation -1 children -1 -2
+separation -1 partner work -1 marriage children -1 -2
+work -1 marriage separation -1 children -1 -2
+partner separation -1 work children -1 marriage -1 -2
+work marriage separation -1 children -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+work -1 separation -1 partner -1 -2
+work -1 partner separation -1 marriage children -1 -2
+work marriage separation -1 children -1 -2
+work -1 children -1 marriage -1 partner separation -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+separation -1 work -1 children -1 partner -1 marriage -1 -2
+work separation -1 marriage -1 children -1 -2
+marriage separation -1 work children -1 -2
+-2
+separation -1 work -1 marriage -1 children -1 -2
+-2
+work separation -1 marriage -1 children -1 -2
+partner marriage children -1 separation -1 work -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 marriage -1 children -1 -2
+separation -1 marriage -1 children -1 work -1 -2
+work separation -1 marriage -1 children -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+work -1 partner separation -1 marriage children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 marriage -1 children separation -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 partner -1 separation -1 marriage children -1 -2
+work marriage children separation -1 -2
+separation -1 work -1 partner -1 -2
+work -1 marriage children -1 -2
+work marriage separation -1 children -1 -2
+work -1 marriage -1 separation -1 partner children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 separation -1 partner -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work marriage -1 separation -1 children -1 -2
+separation -1 work marriage -1 children -1 -2
+work -1 marriage -1 separation -1 -2
+children -1 separation -1 partner work marriage -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 -2
+work -1 marriage -1 children -1 separation -1 -2
+work -1 separation -1 marriage children -1 -2
+work -1 -2
+work -1 separation -1 marriage children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 separation -1 partner -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+-2
+work -1 partner marriage separation -1 children -1 -2
+marriage separation -1 children -1 work -1 -2
+separation -1 marriage -1 work -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work separation -1 marriage -1 children -1 -2
+separation -1 work -1 partner marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 separation -1 marriage children -1 -2
+marriage -1 work -1 separation -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+partner work marriage -1 children -1 -2
+work -1 partner -1 children -1 separation -1 marriage -1 -2
+work -1 -2
+work -1 -2
+work -1 partner separation -1 marriage children -1 -2
+separation -1 work -1 -2
+partner separation -1 marriage children -1 work -1 -2
+separation -1 partner -1 work -1 -2
+marriage -1 children -1 -2
+marriage -1 children -1 -2
+children -1 -2
+work -1 children -1 -2
+separation -1 marriage -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+children -1 -2
+-2
+-2
+work -1 -2
+-2
+marriage -1 children -1 -2
+separation -1 work -1 partner -1 marriage -1 -2
+work -1 children -1 -2
+partner marriage separation -1 -2
+-2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 separation -1 partner -1 marriage -1 children -1 -2
+work separation -1 -2
+separation -1 partner work -1 -2
+separation -1 work marriage -1 children -1 -2
+work -1 separation -1 partner marriage -1 children -1 -2
+work -1 separation -1 marriage children -1 -2
+work -1 partner marriage children separation -1 -2
+work -1 -2
+work separation -1 marriage -1 children -1 -2
+-2
+-2
+-2
+separation -1 work -1 marriage -1 children -1 -2
+partner separation -1 children -1 work -1 marriage -1 -2
+work -1 marriage -1 children -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+work -1 marriage -1 children separation -1 -2
+work -1 separation -1 marriage -1 -2
+work -1 marriage -1 children -1 separation -1 -2
+work -1 marriage -1 children -1 -2
+work -1 marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 separation -1 marriage -1 -2
+work marriage separation -1 children -1 -2
+separation -1 work -1 marriage children -1 -2
+work -1 partner -1 -2
+work -1 separation -1 marriage children -1 -2
+work -1 marriage separation -1 children -1 -2
+separation -1 marriage -1 work children -1 -2
+-2
+work -1 marriage separation -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+partner work marriage separation -1 children -1 -2
+separation -1 work -1 -2
+work -1 marriage separation -1 children -1 partner -1 -2
+work -1 marriage -1 children separation -1 -2
+separation -1 work -1 marriage children -1 -2
+work marriage separation -1 children -1 -2
+children -1 work -1 marriage separation -1 -2
+work -1 -2
+work -1 marriage -1 separation -1 children -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+work -1 partner marriage -1 separation -1 children -1 -2
+separation -1 marriage -1 work -1 children -1 -2
+work -1 marriage children separation -1 -2
+work separation -1 -2
+work -1 -2
+separation -1 -2
+separation -1 partner marriage -1 children -1 -2
+-2
+separation -1 -2
+separation -1 work -1 partner marriage -1 children -1 -2
+work -1 -2
+separation -1 partner -1 children -1 -2
+separation -1 -2
+children -1 -2
+separation -1 work -1 -2
+partner -1 marriage -1 children -1 -2
+separation -1 -2
+marriage separation -1 work -1 children -1 -2
+separation -1 work -1 marriage -1 -2
+separation -1 work -1 -2
+work -1 marriage -1 children -1 -2
+marriage -1 children -1 -2
+separation -1 marriage -1 children -1 -2
+work -1 marriage -1 children -1 separation -1 -2
+work -1 -2
+marriage -1 children -1 -2
+work -1 marriage children -1 separation -1 -2
+separation -1 -2
+marriage separation -1 children -1 -2
+marriage -1 children -1 -2
+marriage -1 children -1 -2
+work separation -1 marriage -1 -2
+-2
+partner -1 work separation -1 marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+partner marriage children separation -1 work -1 -2
+marriage -1 children -1 -2
+work -1 partner marriage -1 children -1 -2
+work -1 partner marriage -1 children -1 -2
+work -1 partner marriage -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+partner -1 marriage children -1 work -1 -2
+work -1 marriage -1 -2
+work -1 -2
+work -1 separation -1 partner marriage children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 -2
+partner separation -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work marriage separation -1 children -1 -2
+separation -1 work -1 -2
+work -1 marriage children -1 separation -1 -2
+work -1 marriage -1 children -1 -2
+work marriage separation -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage children separation -1 -2
+separation -1 marriage -1 work children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage children separation -1 -2
+work marriage separation -1 children -1 -2
+separation -1 marriage -1 work children -1 -2
+work -1 separation -1 partner -1 marriage -1 children -1 -2
+work -1 separation -1 partner marriage -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage -1 separation -1 children -1 -2
+partner marriage -1 children -1 work -1 -2
+work separation -1 marriage -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+separation -1 work -1 partner -1 marriage -1 children -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 partner separation -1 children -1 marriage -1 -2
+work -1 separation -1 marriage -1 children -1 -2
+work -1 marriage -1 children -1 -2
+work separation -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work -1 marriage -1 children -1 -2
+-2
+work -1 marriage separation -1 children -1 -2
+marriage separation -1 children -1 -2
+work -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+separation -1 work marriage -1 children -1 -2
+work marriage -1 children -1 -2
+work -1 marriage -1 children -1 -2
+marriage -1 children -1 work separation -1 -2
+work -1 -2
+work -1 marriage separation -1 children -1 -2
+work marriage separation -1 -2
+work -1 marriage -1 children -1 -2
+work -1 -2
+work separation -1 marriage -1 children -1 -2
+separation -1 work -1 marriage -1 -2
+work -1 partner -1 marriage children -1 -2
+marriage -1 children -1 work -1 -2
+work -1 separation -1 children -1 partner -1 -2
+-2
+work marriage separation -1 children -1 -2
+work -1 marriage separation -1 children -1 -2
+work separation -1 marriage children -1 -2
+partner work separation -1 -2
+work -1 separation -1 -2
+separation -1 partner -1 children -1 marriage -1 -2
+work -1 partner -1 children -1 separation -1 -2
+separation -1 work -1 marriage -1 children -1 -2
+work -1 separation -1 children -1 -2
+children -1 -2
+-2
+marriage -1 children -1 -2
+work -1 separation -1 -2
